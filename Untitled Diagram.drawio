@@ -1085,13 +1085,13 @@
           <mxGeometry x="1909" y="-1780.9999999999995" width="147.19" height="302.66" as="geometry" />
         </mxCell>
         <mxCell id="FrWMqiVg5OCBhaecqQ0n-163" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0D0D0D;strokeWidth=4;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="961" y="-2202" width="12" height="12" as="geometry" />
+          <mxGeometry x="947" y="-2122.28" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="FrWMqiVg5OCBhaecqQ0n-164" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0D0D0D;strokeWidth=4;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="985.74" y="-2181.5" width="12" height="12" as="geometry" />
+          <mxGeometry x="996.02" y="-2083" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="FrWMqiVg5OCBhaecqQ0n-165" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0D0D0D;strokeWidth=4;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1008.6500000000001" y="-2161.84" width="12" height="12" as="geometry" />
+          <mxGeometry x="1049.0000000000002" y="-2046" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="FrWMqiVg5OCBhaecqQ0n-185" value="&lt;font face=&quot;Times New Roman&quot;&gt;MD&#39;s Transmission queue at EN&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="1">
           <mxGeometry x="1355" y="454.79999999999995" width="432.77" height="24.69" as="geometry" />
